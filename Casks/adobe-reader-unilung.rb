@@ -3,6 +3,6 @@ class AdobeReaderUnilung < Cask
   homepage 'http://www.adobe.com/products/reader.html'
   version '11.0.06'
   sha256 'ae4f889b68729f2948cc80859012241b166d6efbf4113e63d5df4297531383f7'
-  install 'Adobe Reader XI Installer.pkg'
+  install 'AdbeRdrUpd11006.pkg'
   uninstall :pkgutil => 'com.adobe.acrobat.reader.11006.*'
 end

@@ -5,5 +5,5 @@ class Mjograph < Cask
   url 'http://downloads.sourceforge.net/project/mjograph/mjograph/mjograph-4.6.1/mjograph-for-osx-4.6.1.zip'
   homepage 'http://www.ochiailab.dnj.ynu.ac.jp/mjograph/indexj.html'
 
-  link 'mjograph-for-osx-4.6.1/Mjograph.app'
+  link 'mjograph-for-osx/Mjograph.app'
 end
